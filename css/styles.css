@@ -1,9 +1,8 @@
-* {
-    font-family: ;
-}
 
-.header {
+
+header {
     background-color: 7FB5FF;
     display: fixed;
     color: 001D6E;
+    text-align: auto;
 }
