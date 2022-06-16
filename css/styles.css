@@ -1,11 +1,17 @@
-
-
-header {
-    background-color: 7FB5FF;
-    display: fixed;
-    color: 001D6E;
+.header {
+    background-color: #7FB5FF;
+    position: relative;
+    text-align: center;
     margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
-    z-index: 1;
+    width: 100%;
+    height: 200px;
+    color: #001D6E;
+    z-index: 99;
+}
+body {
+    text-align: center;
+    background-color: #FEE2C5;
+    margin: 0;
+    z-index: 0;
+
 }
