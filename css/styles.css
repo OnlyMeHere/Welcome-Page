@@ -4,5 +4,8 @@ header {
     background-color: 7FB5FF;
     display: fixed;
     color: 001D6E;
-    text-align: auto;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    z-index: 1;
 }
